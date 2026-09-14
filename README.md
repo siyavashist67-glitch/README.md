@@ -1,26 +1,26 @@
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Aspiring+HR+Coordinator+%7C+Talent+Acquisition;Psychology+Honours+Graduate%2C+York+University;People+Analytics+%2B+HR+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=90CAF9&center=true&vCenter=true&width=650&lines=Aspiring+HR+Coordinator+%7C+Talent+Acquisition;Psychology+Honours+Graduate%2C+York+University;People+Analytics+%2B+HR+Technology" alt="Typing SVG" />
 </a>
 <br>
 <a href="https://learner.mycreds.ca/sharelink/b6d437d9-bb49-4585-ab31-8e6ecf4e1d77/836d9f42-fc93-4349-acd0-2e9bfc6dd691">
-  <img src="https://img.shields.io/badge/York%20University-Cum%20Laude%20%7C%20Deans%20Honour%20Roll-312E81?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/York%20University-Cum%20Laude%20%7C%20Deans%20Honour%20Roll-3B4278?style=for-the-badge" />
 </a>
-<img src="https://img.shields.io/badge/Toronto,%20ON-Canada-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Toronto,%20ON-Canada-7986CB?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <br>
 <a href="mailto:siyavashist67@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=4F46E5" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=7986CB" />
 </a>
 <a href="https://www.linkedin.com/in/siyavashist">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=4F46E5" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=7986CB" />
 </a>
 <a href="https://github.com/siyavashist67-glitch">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=312E81" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=3B4278" />
 </a>
 <br>
-<img src="https://komarev.com/ghpvc/?username=siyavashist67-glitch&style=for-the-badge&color=4F46E5&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/siyavashist67-glitch?style=for-the-badge&color=4F46E5&logo=github&label=FOLLOWERS&labelColor=312E81" />
-<img src="https://img.shields.io/github/stars/siyavashist67-glitch/siyavashist67-glitch?style=for-the-badge&color=4F46E5&logo=github&label=STARS&labelColor=312E81" />
+<img src="https://komarev.com/ghpvc/?username=siyavashist67-glitch&style=for-the-badge&color=7986CB&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/siyavashist67-glitch?style=for-the-badge&color=7986CB&logo=github&label=FOLLOWERS&labelColor=3B4278" />
+<img src="https://img.shields.io/github/stars/siyavashist67-glitch/siyavashist67-glitch?style=for-the-badge&color=7986CB&logo=github&label=STARS&labelColor=3B4278" />
 
 </div>
 <div align="center">
@@ -51,18 +51,18 @@ Four years of research methods training (regression, mediation analysis, experim
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&color=4F46E5" />
-<img src="https://img.shields.io/badge/Jamovi-312E81?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JASP-312E81?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&color=4F46E5" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white&color=4F46E5" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&color=4F46E5" />
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white&color=4F46E5" />
-<img src="https://img.shields.io/badge/SAP%20ERP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&color=4F46E5" />
-<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white&color=4F46E5" />
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white&color=4F46E5" />
-<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white&color=4F46E5" />
-<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googlesheets&logoColor=white&color=4F46E5" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&color=7986CB" />
+<img src="https://img.shields.io/badge/Jamovi-3B4278?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JASP-3B4278?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&color=7986CB" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white&color=7986CB" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&color=7986CB" />
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white&color=7986CB" />
+<img src="https://img.shields.io/badge/SAP%20ERP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&color=7986CB" />
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white&color=7986CB" />
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white&color=7986CB" />
+<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white&color=7986CB" />
+<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googlesheets&logoColor=white&color=7986CB" />
 
 </div>
 
@@ -201,20 +201,20 @@ Examined mentorship access as a predictor of promotion likelihood for women in t
 
 **York University**
 
-[![Certificate in Psychological Methods and Data Analysis](https://img.shields.io/badge/Psychological%20Methods%20%26%20Data%20Analysis-312E81?style=for-the-badge)](https://learner.mycreds.ca/sharelink/045b8569-b1ff-4d1c-8228-a2b1d1d6ba8b/f8b3ae60-5847-4e83-9156-0f5fa3076e76)
+[![Certificate in Psychological Methods and Data Analysis](https://img.shields.io/badge/Psychological%20Methods%20%26%20Data%20Analysis-3B4278?style=for-the-badge)](https://learner.mycreds.ca/sharelink/045b8569-b1ff-4d1c-8228-a2b1d1d6ba8b/f8b3ae60-5847-4e83-9156-0f5fa3076e76)
 
 **LinkedIn Learning**
 
-[![Generative AI Recruiting and Talent Acquisition](https://img.shields.io/badge/Generative%20AI%2C%20Recruiting%20%26%20Talent%20Acquisition-4F46E5?style=for-the-badge)](https://www.linkedin.com/learning/certificates/e791ec9410630d16c6ac302c9831886e1b96ddfa18a992a13cec75614c6ea1da?trk=share_certificate)
-[![Data-Driven HR](https://img.shields.io/badge/Data--Driven%20HR%3A%20AI--Powered%20People%20Analytics-4F46E5?style=for-the-badge)](https://www.linkedin.com/learning/certificates/2e3db87e92badd97a45fcc54835cced0e930ceb1d89c0a8e0b672914e0490176?trk=share_certificate)
-[![HR Compensation and Benefits](https://img.shields.io/badge/Human%20Resources%3A%20Compensation%20%26%20Benefits-4F46E5?style=for-the-badge)](https://www.linkedin.com/learning/certificates/b4642a6f8c9c8e6a07122da4edc9b04d286d8320825f0398d18ddf173bc14148?trk=share_certificate)
-[![Power BI](https://img.shields.io/badge/Power%20BI%20for%20Data%20Analysts-4F46E5?style=for-the-badge)](https://www.linkedin.com/learning/certificates/7a977f3cd167ff54aeedc10c66dcab50b4b4dc97625df1cc69018b31fdfe66c7?trk=share_certificate)
-[![Tableau](https://img.shields.io/badge/Tableau%20Essential%20Training-4F46E5?style=for-the-badge)](https://www.linkedin.com/learning/certificates/f2b3892ba1018703490114c7d59338c6bea1e6598d42ef170dc5ca94aba564b1?trk=share_certificate)
-[![Salesforce AI Fundamentals](https://img.shields.io/badge/Salesforce%20AI%20Fundamentals-4F46E5?style=for-the-badge)](https://www.linkedin.com/learning/certificates/ce969d6e3ff1047ee1efdaac4126daa58e252505b1b01fd203dcbe6abac65072?trk=share_certificate)
-[![Salesforce Essential Training](https://img.shields.io/badge/Salesforce%20Essential%20Training-4F46E5?style=for-the-badge)](https://www.linkedin.com/learning/certificates/14be3aba7a40eadf655a9f4e98dd11815f0290a48d59e3450d46518b484f8c8c?trk=share_certificate)
-[![SAP ERP](https://img.shields.io/badge/SAP%20ERP%20Essential%20Training-4F46E5?style=for-the-badge)](https://www.linkedin.com/learning/certificates/e85d43676e92192c90147e3f6161180f647d0cfcca7649edde0965137a4e97bc?trk=share_certificate)
-[![SharePoint](https://img.shields.io/badge/SharePoint%202016%20Essential%20Training-4F46E5?style=for-the-badge)](https://www.linkedin.com/learning/certificates/1e59f9c9a3b9dcb3bd896b625d820359314602ad3c8cbbf6e0873ae4dcd4cfc4?trk=share_certificate)
-[![Intro to AI](https://img.shields.io/badge/Introduction%20to%20Artificial%20Intelligence-4F46E5?style=for-the-badge)](https://www.linkedin.com/learning/certificates/c9683c81f9b2367dc34cc34326050a83986aa89defe9898859784770c8970387?trk=share_certificate)
+[![Generative AI Recruiting and Talent Acquisition](https://img.shields.io/badge/Generative%20AI%2C%20Recruiting%20%26%20Talent%20Acquisition-7986CB?style=for-the-badge)](https://www.linkedin.com/learning/certificates/e791ec9410630d16c6ac302c9831886e1b96ddfa18a992a13cec75614c6ea1da?trk=share_certificate)
+[![Data-Driven HR](https://img.shields.io/badge/Data--Driven%20HR%3A%20AI--Powered%20People%20Analytics-7986CB?style=for-the-badge)](https://www.linkedin.com/learning/certificates/2e3db87e92badd97a45fcc54835cced0e930ceb1d89c0a8e0b672914e0490176?trk=share_certificate)
+[![HR Compensation and Benefits](https://img.shields.io/badge/Human%20Resources%3A%20Compensation%20%26%20Benefits-7986CB?style=for-the-badge)](https://www.linkedin.com/learning/certificates/b4642a6f8c9c8e6a07122da4edc9b04d286d8320825f0398d18ddf173bc14148?trk=share_certificate)
+[![Power BI](https://img.shields.io/badge/Power%20BI%20for%20Data%20Analysts-7986CB?style=for-the-badge)](https://www.linkedin.com/learning/certificates/7a977f3cd167ff54aeedc10c66dcab50b4b4dc97625df1cc69018b31fdfe66c7?trk=share_certificate)
+[![Tableau](https://img.shields.io/badge/Tableau%20Essential%20Training-7986CB?style=for-the-badge)](https://www.linkedin.com/learning/certificates/f2b3892ba1018703490114c7d59338c6bea1e6598d42ef170dc5ca94aba564b1?trk=share_certificate)
+[![Salesforce AI Fundamentals](https://img.shields.io/badge/Salesforce%20AI%20Fundamentals-7986CB?style=for-the-badge)](https://www.linkedin.com/learning/certificates/ce969d6e3ff1047ee1efdaac4126daa58e252505b1b01fd203dcbe6abac65072?trk=share_certificate)
+[![Salesforce Essential Training](https://img.shields.io/badge/Salesforce%20Essential%20Training-7986CB?style=for-the-badge)](https://www.linkedin.com/learning/certificates/14be3aba7a40eadf655a9f4e98dd11815f0290a48d59e3450d46518b484f8c8c?trk=share_certificate)
+[![SAP ERP](https://img.shields.io/badge/SAP%20ERP%20Essential%20Training-7986CB?style=for-the-badge)](https://www.linkedin.com/learning/certificates/e85d43676e92192c90147e3f6161180f647d0cfcca7649edde0965137a4e97bc?trk=share_certificate)
+[![SharePoint](https://img.shields.io/badge/SharePoint%202016%20Essential%20Training-7986CB?style=for-the-badge)](https://www.linkedin.com/learning/certificates/1e59f9c9a3b9dcb3bd896b625d820359314602ad3c8cbbf6e0873ae4dcd4cfc4?trk=share_certificate)
+[![Intro to AI](https://img.shields.io/badge/Introduction%20to%20Artificial%20Intelligence-7986CB?style=for-the-badge)](https://www.linkedin.com/learning/certificates/c9683c81f9b2367dc34cc34326050a83986aa89defe9898859784770c8970387?trk=share_certificate)
 
 ---
 
@@ -222,7 +222,7 @@ Examined mentorship access as a predictor of promotion likelihood for women in t
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=siyavashist67-glitch&hide_border=true&background=0D1117&ring=4F46E5&fire=818CF8&currStreakLabel=818CF8&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="48%" />
+<img src="https://streak-stats.demolab.com?user=siyavashist67-glitch&hide_border=true&background=0D1117&ring=7986CB&fire=90CAF9&currStreakLabel=90CAF9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="48%" />
 
 </div>
 
@@ -245,13 +245,13 @@ Examined mentorship access as a predictor of promotion likelihood for women in t
 <div align="center">
 
 <a href="mailto:siyavashist67@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=4F46E5" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=7986CB" />
 </a>
 <a href="https://www.linkedin.com/in/siyavashist">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=4F46E5" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=7986CB" />
 </a>
 <a href="https://github.com/siyavashist67-glitch">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=312E81" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=3B4278" />
 </a>
 
 </div>
@@ -262,6 +262,6 @@ Examined mentorship access as a predictor of promotion likelihood for women in t
 
 *Impact sprouts from truth.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4F46E5,100:312E81&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2A4A,50:7986CB,100:3B4278&height=100&section=footer" width="100%" />
 
 </div>
