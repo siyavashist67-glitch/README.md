@@ -26,7 +26,6 @@
 <img src="https://img.shields.io/github/stars/siyavashist67-glitch/siyavashist67-glitch?style=for-the-badge&color=6D28D9&logo=github&label=STARS&labelColor=4C1D95" />
 
 </div>
----
 
 ### `siyavashist67-glitch ~ $ whoami`
 
