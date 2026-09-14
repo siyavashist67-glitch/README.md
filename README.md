@@ -239,9 +239,10 @@ Examined mentorship access as a predictor of promotion likelihood for women in t
 
 ---
 ## Contribution Activity
-<div align="center">
-### `siyavashist67-glitch ~ $ ./contributions.sh`
 
+<div align="center">
+  
+### `siyavashist67-glitch ~ $ ./contributions.sh`
 
 <img src="./contrib-heatmap.svg" width="820" />
 </div>
