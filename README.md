@@ -229,36 +229,15 @@ Examined mentorship access as a predictor of promotion likelihood for women in t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=siyavashist67-glitch&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&ring_color=6D28D9" width="48%" />
+
 <img src="https://streak-stats.demolab.com?user=siyavashist67-glitch&hide_border=true&background=0D1117&ring=6D28D9&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="48%" />
 
-<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyavashist67-glitch&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="45%" />
 
 </div>
 
 ---
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=siyavashist67-glitch&theme=dracula&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
 ## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siyavashist67-glitch&bg_color=0D1117&color=A78BFA&line=6D28D9&point=C9D1D9&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
 
 ### `siyavashist67-glitch ~ $ ./contributions.sh`
 
