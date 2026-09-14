@@ -247,27 +247,6 @@ Examined mentorship access as a predictor of promotion likelihood for women in t
 
 ---
 
-## Current Focus
-
-```yaml
-current_focus:
-  learning:
-    - Power BI and Tableau, deeper dashboarding and DAX
-    - Applicant Tracking Systems and LinkedIn Recruiter
-  building:
-    - Two GitHub projects applying R and JASP skills to people analytics datasets (attrition, hiring funnel)
-    - Personal portfolio website
-  exploring:
-    - HR technology stacks used by Big 5 banks and Big 4 firms
-  open_to:
-    - HR Coordinator
-    - Talent Acquisition Coordinator
-    - People Operations Coordinator
-    - HR Analyst
-```
-
----
-
 ## Connect
 
 <div align="center">
