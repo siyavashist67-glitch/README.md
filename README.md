@@ -23,10 +23,11 @@
 <img src="https://img.shields.io/github/stars/siyavashist67-glitch/siyavashist67-glitch?style=for-the-badge&color=6D28D9&logo=github&label=STARS&labelColor=4C1D95" />
 
 </div>
-
+<div align="center">
+  
 ### `siyavashist67-glitch ~ $ whoami`
 
-<div align="center">
+
 <table>
   <tr>
     <td valign="top"><img src="./portrait-ascii.svg" width="300" /></td>
