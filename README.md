@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/York%20University-Cum%20Laude%20%7C%20Dean's%20Honour%20Roll-4C1D95?style=for-the-badge" />
+<img src="https://img.shields.io/badgeYork%20University-Cum%20Laude%20%7C%20Deans%20Honour%20Roll-4C1D95?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Toronto,%20ON-Canada-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <br><br>
