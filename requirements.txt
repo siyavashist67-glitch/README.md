@@ -1,0 +1,8 @@
+# Daily automation (heatmap refresh) only needs these two:
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Portrait pipeline (only needed locally, when you change your photo):
+pillow
+numpy
+opencv-python-headless

@@ -1,0 +1,1523 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 828"
+     width="620" height="828">
+  <style>
+    .ascii-fill { fill: #444c56; }
+    @media (prefers-color-scheme: dark) {
+      .ascii-fill { fill: #8b949e; }
+    }
+  </style>
+  <rect width="100%" height="100%" fill="none" />
+  <defs></defs>
+  
+    <clipPath id="clip-row0">
+      <rect id="clipRect-row0" x="0" y="0.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.000s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row0)">
+      <text class="ascii-fill" x="0" y="11.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                                                                                    </text>
+      <rect class="ascii-fill" x="0" y="1.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.000s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.550s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row1">
+      <rect id="clipRect-row1" x="0" y="11.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.045s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row1)">
+      <text class="ascii-fill" x="0" y="23.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                                                                                    </text>
+      <rect class="ascii-fill" x="0" y="12.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.045s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.595s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row2">
+      <rect id="clipRect-row2" x="0" y="23.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.090s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row2)">
+      <text class="ascii-fill" x="0" y="34.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                                                                                    </text>
+      <rect class="ascii-fill" x="0" y="24.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.090s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.640s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row3">
+      <rect id="clipRect-row3" x="0" y="34.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.135s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row3)">
+      <text class="ascii-fill" x="0" y="46.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                                                                                    </text>
+      <rect class="ascii-fill" x="0" y="35.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.135s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.685s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row4">
+      <rect id="clipRect-row4" x="0" y="46.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.180s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row4)">
+      <text class="ascii-fill" x="0" y="57.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                                                                                    </text>
+      <rect class="ascii-fill" x="0" y="47.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.180s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.730s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row5">
+      <rect id="clipRect-row5" x="0" y="57.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.225s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row5)">
+      <text class="ascii-fill" x="0" y="69.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                                                                                    </text>
+      <rect class="ascii-fill" x="0" y="58.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.225s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.775s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row6">
+      <rect id="clipRect-row6" x="0" y="69.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.270s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row6)">
+      <text class="ascii-fill" x="0" y="80.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                                                                                    </text>
+      <rect class="ascii-fill" x="0" y="70.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.270s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.820s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row7">
+      <rect id="clipRect-row7" x="0" y="80.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.315s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row7)">
+      <text class="ascii-fill" x="0" y="92.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                                                                                    </text>
+      <rect class="ascii-fill" x="0" y="81.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.315s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.865s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row8">
+      <rect id="clipRect-row8" x="0" y="92.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.360s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row8)">
+      <text class="ascii-fill" x="0" y="103.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                                                                                    </text>
+      <rect class="ascii-fill" x="0" y="93.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.360s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.910s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row9">
+      <rect id="clipRect-row9" x="0" y="103.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.405s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row9)">
+      <text class="ascii-fill" x="0" y="115.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                                                                                    </text>
+      <rect class="ascii-fill" x="0" y="104.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.405s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.955s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row10">
+      <rect id="clipRect-row10" x="0" y="115.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.450s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row10)">
+      <text class="ascii-fill" x="0" y="126.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                              .``..:==-`.                                           </text>
+      <rect class="ascii-fill" x="0" y="116.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.450s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.000s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row11">
+      <rect id="clipRect-row11" x="0" y="126.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.495s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row11)">
+      <text class="ascii-fill" x="0" y="138.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                          `-*cccccccccc*+-.                                         </text>
+      <rect class="ascii-fill" x="0" y="127.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.495s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.045s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row12">
+      <rect id="clipRect-row12" x="0" y="138.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.540s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row12)">
+      <text class="ascii-fill" x="0" y="149.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                        -*cssscs#sssscccc**-.                                       </text>
+      <rect class="ascii-fill" x="0" y="139.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.540s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.090s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row13">
+      <rect id="clipRect-row13" x="0" y="149.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.585s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row13)">
+      <text class="ascii-fill" x="0" y="161.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                      -*ssssscsss=*%#sccc**c*-                                      </text>
+      <rect class="ascii-fill" x="0" y="150.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.585s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.135s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row14">
+      <rect id="clipRect-row14" x="0" y="161.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.630s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row14)">
+      <text class="ascii-fill" x="0" y="172.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                    `*ssss##s#ssc*+c#%%sc***cc+.                                    </text>
+      <rect class="ascii-fill" x="0" y="162.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.630s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.180s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row15">
+      <rect id="clipRect-row15" x="0" y="172.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.675s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row15)">
+      <text class="ascii-fill" x="0" y="184.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                   :s#sss##cc*++=---=c%%s****csc:                                   </text>
+      <rect class="ascii-fill" x="0" y="173.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.675s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.225s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row16">
+      <rect id="clipRect-row16" x="0" y="184.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.720s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row16)">
+      <text class="ascii-fill" x="0" y="195.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                  :#####sc*+=--:::::--+s%c***cssc`                                  </text>
+      <rect class="ascii-fill" x="0" y="185.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.720s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.270s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row17">
+      <rect id="clipRect-row17" x="0" y="195.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.765s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row17)">
+      <text class="ascii-fill" x="0" y="207.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                  c#s##s++=-:::`````::-=s#*+*ccs#*                                  </text>
+      <rect class="ascii-fill" x="0" y="196.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.765s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.315s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row18">
+      <rect id="clipRect-row18" x="0" y="207.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.810s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row18)">
+      <text class="ascii-fill" x="0" y="218.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                 -#s##s+=--:`````````::-+#c*+ccs#s:                                 </text>
+      <rect class="ascii-fill" x="0" y="208.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.810s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.360s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row19">
+      <rect id="clipRect-row19" x="0" y="218.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.855s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row19)">
+      <text class="ascii-fill" x="0" y="230.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                 c%s#c+=-:`..`````...``:=cs*+*css#=                                 </text>
+      <rect class="ascii-fill" x="0" y="219.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.855s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.405s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row20">
+      <rect id="clipRect-row20" x="0" y="230.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.900s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row20)">
+      <text class="ascii-fill" x="0" y="241.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                `#%##+++*+===:````.....`:+ss**css#c.                                </text>
+      <rect class="ascii-fill" x="0" y="231.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.900s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.450s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row21">
+      <rect id="clipRect-row21" x="0" y="241.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.945s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row21)">
+      <text class="ascii-fill" x="0" y="253.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                =#%%c++*cccs#s*=::`:==*++c##c*css#s:                                </text>
+      <rect class="ascii-fill" x="0" y="242.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.945s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.495s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row22">
+      <rect id="clipRect-row22" x="0" y="253.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.990s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row22)">
+      <text class="ascii-fill" x="0" y="264.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                *#%%+=+cscsscss*-:-++**++*s%s*css##+                                </text>
+      <rect class="ascii-fill" x="0" y="254.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="0.990s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.540s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row23">
+      <rect id="clipRect-row23" x="0" y="264.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.035s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row23)">
+      <text class="ascii-fill" x="0" y="276.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                               .c#%s=--+c*ss**++` -=*+c#*s%%s**sss#c.                               </text>
+      <rect class="ascii-fill" x="0" y="265.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.035s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.585s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row24">
+      <rect id="clipRect-row24" x="0" y="276.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.080s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row24)">
+      <text class="ascii-fill" x="0" y="287.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                               `s##s=::`:===-`::. ::`-=+=*s#s+*sss#s`                               </text>
+      <rect class="ascii-fill" x="0" y="277.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.080s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.630s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row25">
+      <rect id="clipRect-row25" x="0" y="287.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.125s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row25)">
+      <text class="ascii-fill" x="0" y="299.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                               :s#%s=::`.....::`. `:. .``:=ss**ssss#-                               </text>
+      <rect class="ascii-fill" x="0" y="288.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.125s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.675s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row26">
+      <rect id="clipRect-row26" x="0" y="299.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.170s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row26)">
+      <text class="ascii-fill" x="0" y="310.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                               -s#%%*-::````==:.  .`:`   .-cs**ss#s#=                               </text>
+      <rect class="ascii-fill" x="0" y="300.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.170s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.720s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row27">
+      <rect id="clipRect-row27" x="0" y="310.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.215s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row27)">
+      <text class="ascii-fill" x="0" y="322.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                               -s#%%s=-----=-=**=-==:--..`-cs**cs#s#+                               </text>
+      <rect class="ascii-fill" x="0" y="311.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.215s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.765s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row28">
+      <rect id="clipRect-row28" x="0" y="322.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.260s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row28)">
+      <text class="ascii-fill" x="0" y="333.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                               =c#%#s+=+==+=:`:-=-``.`-=:-+csc*cs#ss*                               </text>
+      <rect class="ascii-fill" x="0" y="323.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.260s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.810s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row29">
+      <rect id="clipRect-row29" x="0" y="333.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.305s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row29)">
+      <text class="ascii-fill" x="0" y="345.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                               =*s####===--=*c*+==++=-:::=+*s***ssssc`                              </text>
+      <rect class="ascii-fill" x="0" y="334.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.305s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.855s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row30">
+      <rect id="clipRect-row30" x="0" y="345.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.350s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row30)">
+      <text class="ascii-fill" x="0" y="356.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                               -*s##%%s+*+-``:===--:`.`:-=*ss***sssc*:                              </text>
+      <rect class="ascii-fill" x="0" y="346.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.350s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.900s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row31">
+      <rect id="clipRect-row31" x="0" y="356.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.395s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row31)">
+      <text class="ascii-fill" x="0" y="368.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                               =*cs###%s*c+:.......  .`-+c%#c**csscc*-                              </text>
+      <rect class="ascii-fill" x="0" y="357.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.395s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.945s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row32">
+      <rect id="clipRect-row32" x="0" y="368.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.440s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row32)">
+      <text class="ascii-fill" x="0" y="379.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                               -+ccsss#s*cc*-`.    .`-+*s%%sc**ccccc*=.                             </text>
+      <rect class="ascii-fill" x="0" y="369.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.440s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.990s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row33">
+      <rect id="clipRect-row33" x="0" y="379.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.485s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row33)">
+      <text class="ascii-fill" x="0" y="391.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                               =*c*css#s**ccsc*+===++++*s%#sc+*ccc**+=.                             </text>
+      <rect class="ascii-fill" x="0" y="380.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.485s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.035s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row34">
+      <rect id="clipRect-row34" x="0" y="391.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.530s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row34)">
+      <text class="ascii-fill" x="0" y="402.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                               =***css%s++***cccc*+====*#%#s*+cccc*c+-`                             </text>
+      <rect class="ascii-fill" x="0" y="392.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.530s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.080s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row35">
+      <rect id="clipRect-row35" x="0" y="402.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.575s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row35)">
+      <text class="ascii-fill" x="0" y="414.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                              `+**css#%c++++==--------=*#%ss*+ccc*+**-:                             </text>
+      <rect class="ascii-fill" x="0" y="403.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.575s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.125s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row36">
+      <rect id="clipRect-row36" x="0" y="414.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.620s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row36)">
+      <text class="ascii-fill" x="0" y="425.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                             `+**css#%#*=++===----:--=+*#%sc**scc*+*c+=`.   .                       </text>
+      <rect class="ascii-fill" x="0" y="415.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.620s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.170s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row37">
+      <rect id="clipRect-row37" x="0" y="425.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.665s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row37)">
+      <text class="ascii-fill" x="0" y="437.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                            -cccss#%%%s+===+===------=+c##csc*sccc**cc*c*==:`.                      </text>
+      <rect class="ascii-fill" x="0" y="426.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.665s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.215s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row38">
+      <rect id="clipRect-row38" x="0" y="437.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.710s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row38)">
+      <text class="ascii-fill" x="0" y="448.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                    .`:--=+*cs########*=---==--:::::-=+c%#sssccccc*cccssccs*=:.                     </text>
+      <rect class="ascii-fill" x="0" y="438.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.710s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.260s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row39">
+      <rect id="clipRect-row39" x="0" y="448.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.755s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row39)">
+      <text class="ascii-fill" x="0" y="460.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">              `:=+*cssssccccc####ss##s*-:-----:`````:-+s%#ssscccsc*cccscc#sccc***=.                 </text>
+      <rect class="ascii-fill" x="0" y="449.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.755s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.305s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row40">
+      <rect id="clipRect-row40" x="0" y="460.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.800s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row40)">
+      <text class="ascii-fill" x="0" y="471.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">            :sssssssscccccccs#ssssss#c+=:::::-::`````-+#%###scc**cc*csscscc***csss=                 </text>
+      <rect class="ascii-fill" x="0" y="461.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.800s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.350s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row41">
+      <rect id="clipRect-row41" x="0" y="471.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.845s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row41)">
+      <text class="ascii-fill" x="0" y="483.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">            c#sssssssssscccssssssssss+--:```````````:-c##%%##ssccsccssss#c++cccsss*                 </text>
+      <rect class="ascii-fill" x="0" y="472.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.845s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.395s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row42">
+      <rect id="clipRect-row42" x="0" y="483.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.890s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row42)">
+      <text class="ascii-fill" x="0" y="494.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">           `sssssssssssssccssssssssss+-:`::`````````-*s########sscscssssss+ss*csssc`                </text>
+      <rect class="ascii-fill" x="0" y="484.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.890s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.440s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row43">
+      <rect id="clipRect-row43" x="0" y="494.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.935s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row43)">
+      <text class="ascii-fill" x="0" y="506.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">           +#sssssssssssccsssssssssssc-:``::```````:=c######s##sc*ccsscssscccssssss=                </text>
+      <rect class="ascii-fill" x="0" y="495.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.935s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.485s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row44">
+      <rect id="clipRect-row44" x="0" y="506.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.980s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row44)">
+      <text class="ascii-fill" x="0" y="517.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">           c#sssssssssssssccssssscsss#*::```:::::`:-=*#####ss#sscccccsccsssc*cccscc*                </text>
+      <rect class="ascii-fill" x="0" y="507.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="1.980s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.530s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row45">
+      <rect id="clipRect-row45" x="0" y="517.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.025s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row45)">
+      <text class="ascii-fill" x="0" y="529.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">          .s##ssssccssss#scccscccccc##s+:::::`:-::-==*#####sssscccccccc**c**ssscc*cs`               </text>
+      <rect class="ascii-fill" x="0" y="518.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.025s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.575s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row46">
+      <rect id="clipRect-row46" x="0" y="529.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.070s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row46)">
+      <text class="ascii-fill" x="0" y="540.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">          .ss##sssscccs##*cccccccccc##s#*-::::-=-:---+#####sssccccccc*cc**++*c##sccs=               </text>
+      <rect class="ascii-fill" x="0" y="530.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.070s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.620s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row47">
+      <rect id="clipRect-row47" x="0" y="540.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.115s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row47)">
+      <text class="ascii-fill" x="0" y="552.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">          `scs##ssscccs%c*cccccccccs#sss#s=:``:-::---=ss####sscccsc*cc****++*ccssccsc.              </text>
+      <rect class="ascii-fill" x="0" y="541.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.115s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.665s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row48">
+      <rect id="clipRect-row48" x="0" y="552.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.160s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row48)">
+      <text class="ascii-fill" x="0" y="563.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">          =#sscs#ssscs#%********cccs#ssss##s*=-:::::-+s#####s#sccccc******+++*cccsccs-              </text>
+      <rect class="ascii-fill" x="0" y="553.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.160s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.710s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row49">
+      <rect id="clipRect-row49" x="0" y="563.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.205s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row49)">
+      <text class="ascii-fill" x="0" y="575.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">          *ss#scccs#ss%#**++++*****s#ssssss###sc**cccss##ssssssc*ccccc***********cscs*              </text>
+      <rect class="ascii-fill" x="0" y="564.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.205s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.755s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row50">
+      <rect id="clipRect-row50" x="0" y="575.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.250s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row50)">
+      <text class="ascii-fill" x="0" y="586.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">         `ssss##sscs##%s+**+++++***sscsssssssssssssscsss#scsssc*+*cccc******csscc**csc`             </text>
+      <rect class="ascii-fill" x="0" y="576.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.250s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.800s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row51">
+      <rect id="clipRect-row51" x="0" y="586.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.295s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row51)">
+      <text class="ascii-fill" x="0" y="598.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">         +#ssssss#####%c++**+++++**sscccsssssssscccccccssscccsc*++******c*ccccs##sc*cs=             </text>
+      <rect class="ascii-fill" x="0" y="587.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.295s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.845s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row52">
+      <rect id="clipRect-row52" x="0" y="598.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.340s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row52)">
+      <text class="ascii-fill" x="0" y="609.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">         cs##ssscss##%#*++=+++==++*ssscccccsscccccccccccccccc*c***=+**cc+ccccscc##scss*             </text>
+      <rect class="ascii-fill" x="0" y="599.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.340s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.890s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row53">
+      <rect id="clipRect-row53" x="0" y="609.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.385s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row53)">
+      <text class="ascii-fill" x="0" y="621.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">        :sss##ssssss#%#*+++=======*scssscccccccccccccccc*cccccc*+*c++ccc**sscccccsscsss`            </text>
+      <rect class="ascii-fill" x="0" y="610.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.385s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.935s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row54">
+      <rect id="clipRect-row54" x="0" y="621.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.430s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row54)">
+      <text class="ascii-fill" x="0" y="632.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">        =#sssssssss#%%s*+++++=====csccsccssscccccccccccc*cc*csc*++*c**c**+c#ss*ccssssss-            </text>
+      <rect class="ascii-fill" x="0" y="622.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.430s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.980s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row55">
+      <rect id="clipRect-row55" x="0" y="632.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.475s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row55)">
+      <text class="ascii-fill" x="0" y="644.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">        *#sssssssss#%%s++++++=====csccccsscssssscccccccc*cs**cc*+=+*s*+**+*#s#c**ccssss=            </text>
+      <rect class="ascii-fill" x="0" y="633.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.475s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="3.025s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row56">
+      <rect id="clipRect-row56" x="0" y="644.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.520s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row56)">
+      <text class="ascii-fill" x="0" y="655.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">        *#s###ssss##%%s+****++++++csssscsscscccscccccccc**sc+cs++=*scc+**+*sccc+**sssss*            </text>
+      <rect class="ascii-fill" x="0" y="645.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.520s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="3.070s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row57">
+      <rect id="clipRect-row57" x="0" y="655.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.565s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row57)">
+      <text class="ascii-fill" x="0" y="667.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">        csss####ss##%%s******+++**ssssssssssscccccccccccc*ss*c#*+*cc*c+**+cccc*++csssssc            </text>
+      <rect class="ascii-fill" x="0" y="656.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.565s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="3.115s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row58">
+      <rect id="clipRect-row58" x="0" y="667.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.610s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row58)">
+      <text class="ascii-fill" x="0" y="678.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">        s#sssss#####%%#**********cs#ssssssssssssssssccccccsscs#c*cc*c****+c*#sc++ssssssc.           </text>
+      <rect class="ascii-fill" x="0" y="668.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.610s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="3.160s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row59">
+      <rect id="clipRect-row59" x="0" y="678.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.655s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row59)">
+      <text class="ascii-fill" x="0" y="690.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">        s##sssss####%%#cccc*cc**cc##ssssssssssssssssssssss##s#%c***c****c**c%sc+*sssssss`           </text>
+      <rect class="ascii-fill" x="0" y="679.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.655s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="3.205s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row60">
+      <rect id="clipRect-row60" x="0" y="690.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.700s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row60)">
+      <text class="ascii-fill" x="0" y="701.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">        s###sssss###%%%scccccccccs##################s###ss#####c****ccccc*c#%#c**ssssss#:           </text>
+      <rect class="ascii-fill" x="0" y="691.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.700s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="3.250s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row61">
+      <rect id="clipRect-row61" x="0" y="701.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.745s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row61)">
+      <text class="ascii-fill" x="0" y="713.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">        s#####sss####%%#cccccccccs%%#########################%#c****ccccccs%%%scccsssss#-           </text>
+      <rect class="ascii-fill" x="0" y="702.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.745s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="3.295s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row62">
+      <rect id="clipRect-row62" x="0" y="713.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.790s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row62)">
+      <text class="ascii-fill" x="0" y="724.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">        s#####sssss#%%%%sssccccccs%%%%%%%%%%%%%%%###########%%#c***ccccscs#%%%#sccss##s#=           </text>
+      <rect class="ascii-fill" x="0" y="714.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.790s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="3.340s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row63">
+      <rect id="clipRect-row63" x="0" y="724.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.835s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row63)">
+      <text class="ascii-fill" x="0" y="736.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">        s####ssssss#%%%%#ssccccccs%%%%%%%%%%%%%#%#########%%%%sc****ccsss#%%%###ccss####+           </text>
+      <rect class="ascii-fill" x="0" y="725.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.835s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="3.385s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row64">
+      <rect id="clipRect-row64" x="0" y="736.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.880s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row64)">
+      <text class="ascii-fill" x="0" y="747.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">        s#s#sssssss##%%%#ssscccccs#%%%%%%%%###############%%%#scc**ccsss#%%######ssss###*           </text>
+      <rect class="ascii-fill" x="0" y="737.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.880s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="3.430s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row65">
+      <rect id="clipRect-row65" x="0" y="747.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.925s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row65)">
+      <text class="ascii-fill" x="0" y="759.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">        s#sssssssss##%%%%sssssssss#%%##########sss#########%%#sc***ccsss#%%#####sssssss#*           </text>
+      <rect class="ascii-fill" x="0" y="748.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.925s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="3.475s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row66">
+      <rect id="clipRect-row66" x="0" y="759.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="2.970s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row66)">
+      <text class="ascii-fill" x="0" y="770.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">        s##sssssss###%%%%scsssssss#%%%###ssssssssssssssss##%%scc***ccss#%%############s#*           </text>
+      <rect class="ascii-fill" x="0" y="760.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="2.970s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="3.520s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row67">
+      <rect id="clipRect-row67" x="0" y="770.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="3.015s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row67)">
+      <text class="ascii-fill" x="0" y="782.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">        s%###ssss######%%#ssssssss#######sssssssssssssss##%%#scc**ccsss#%%##############+           </text>
+      <rect class="ascii-fill" x="0" y="771.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="3.015s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="3.565s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row68">
+      <rect id="clipRect-row68" x="0" y="782.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="3.060s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row68)">
+      <text class="ascii-fill" x="0" y="793.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">        `*%%#sssssssss#%%#ssssssss#####ssssccccccssssssss##%#scc**ccsss#%%####ssssss####+           </text>
+      <rect class="ascii-fill" x="0" y="783.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="3.060s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="3.610s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row69">
+      <rect id="clipRect-row69" x="0" y="793.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="3.105s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row69)">
+      <text class="ascii-fill" x="0" y="805.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">          :c#########%@@@@%##%%%##%%%%%####ssssssssssss##%@@#sscccs####%@@@%%##########%=           </text>
+      <rect class="ascii-fill" x="0" y="794.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="3.105s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="3.655s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row70">
+      <rect id="clipRect-row70" x="0" y="805.0" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="3.150s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row70)">
+      <text class="ascii-fill" x="0" y="816.5" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">            :------------------------------------------------::::::---------------------.           </text>
+      <rect class="ascii-fill" x="0" y="806.0" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="3.150s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="3.700s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row71">
+      <rect id="clipRect-row71" x="0" y="816.5" width="0" height="11.5">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="3.195s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row71)">
+      <text class="ascii-fill" x="0" y="828.0" font-family="'SF Mono','Consolas','Menlo',monospace"
+            font-size="11"
+            xml:space="preserve">                                                                                                    </text>
+      <rect class="ascii-fill" x="0" y="817.5" width="6.820000000000001" height="9.5"
+            opacity="0.85">
+        <animate attributeName="x" from="0" to="620.0"
+                 begin="3.195s" dur="0.55s"
+                 fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="3.745s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+</svg>
