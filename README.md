@@ -5,16 +5,12 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Aspiring+HR+Coordinator+%7C+Talent+Acquisition;Psychology+Honours+Graduate%2C+York+University;People+Analytics+%2B+HR+Technology" alt="Typing SVG" />
 </a>
-
 <br>
-
 <a href="https://learner.mycreds.ca/sharelink/b6d437d9-bb49-4585-ab31-8e6ecf4e1d77/836d9f42-fc93-4349-acd0-2e9bfc6dd691">
   <img src="https://img.shields.io/badge/York%20University-Cum%20Laude%20%7C%20Dean%27s%20Honour%20Roll-4C1D95?style=for-the-badge" />
 </a>
 <img src="https://img.shields.io/badge/Toronto,%20ON-Canada-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
-<br><br>
-
+<br>
 <a href="mailto:siyavashist67@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=6D28D9" />
 </a>
@@ -24,15 +20,12 @@
 <a href="https://github.com/siyavashist67-glitch">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=4C1D95" />
 </a>
-
-<br><br>
-
+<br>
 <img src="https://komarev.com/ghpvc/?username=siyavashist67-glitch&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/siyavashist67-glitch?style=for-the-badge&color=6D28D9&logo=github&label=FOLLOWERS&labelColor=4C1D95" />
 <img src="https://img.shields.io/github/stars/siyavashist67-glitch/siyavashist67-glitch?style=for-the-badge&color=6D28D9&logo=github&label=STARS&labelColor=4C1D95" />
 
 </div>
-
 ---
 
 ### `siyavashist67-glitch ~ $ whoami`
