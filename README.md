@@ -9,7 +9,6 @@
 <br>
 
 <a href="https://learner.mycreds.ca/sharelink/b6d437d9-bb49-4585-ab31-8e6ecf4e1d77/836d9f42-fc93-4349-acd0-2e9bfc6dd691">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/YorkUlogo.png" width="36" />
   <img src="https://img.shields.io/badge/York%20University-Cum%20Laude%20%7C%20Dean%27s%20Honour%20Roll-4C1D95?style=for-the-badge" />
 </a>
 <img src="https://img.shields.io/badge/Toronto,%20ON-Canada-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white" />
