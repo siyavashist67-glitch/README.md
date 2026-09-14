@@ -168,7 +168,7 @@ Examined mentorship access as a predictor of promotion likelihood for women in t
 
 **Project Manager & Design Lead** · York University Cross-Campus Capstone
 *2025*
-Led a 5-person interdisciplinary team building a mobile, trauma-informed recovery model for homeless youth, in partnership with two community organizations.
+- Led a 5-person interdisciplinary team building a mobile, trauma-informed recovery model for homeless youth, in partnership with two community organizations.
 - Tracked deadlines and co-led communication with the project shepherd and community partners
 - Applied structured problem-analysis methods to root-cause complex social barriers
 - Led document formatting and presentation design for the final showcase
@@ -179,7 +179,7 @@ Led a 5-person interdisciplinary team building a mobile, trauma-informed recover
 
 **Cashier** · RONA+
 *2023 to 2024*
-Managed 75 to 100 customer interactions per shift in a high-volume retail environment.
+- Managed 75 to 100 customer interactions per shift in a high-volume retail environment.
 - Independently de-escalated complaints without manager involvement
 - Processed high volumes of cash and digital transactions with consistent accuracy
 - Adapted communication approach per interaction to resolve inquiries efficiently
@@ -190,7 +190,7 @@ Managed 75 to 100 customer interactions per shift in a high-volume retail enviro
 
 **Operations & Administrative Intern** · Zion Telecom Industries
 *2022*
-Administered confidential personnel documentation across departments.
+- Administered confidential personnel documentation across departments.
 - Managed file organization, report generation, and records maintenance
 - Acted as information liaison across departments with no formal coordination structure
 
