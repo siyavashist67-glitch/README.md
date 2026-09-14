@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=200&section=header&text=Siya%20Vashist&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=HR%20%26%20Talent%20Acquisition%20%7C%20People%20Analytics&descAlignY=55&descSize=18" width="100%" />
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Aspiring+HR+Coordinator+%7C+Talent+Acquisition;Psychology+Honours+Graduate%2C+York+University;People+Analytics+%2B+HR+Technology" alt="Typing SVG" />
 </a>
